@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /mountdata/charles/hio-yocto-bsp/krogoth/build/tmp
+SSTATE_DIR /mountdata/charles/hio-yocto-bsp/krogoth/build/sstate-cache
+NATIVELSBSTRING Ubuntu-14.04
